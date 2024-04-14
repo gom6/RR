@@ -1,14 +1,14 @@
 {
   "urls": [
     {
-      "url": "http://meowtv.cn/tv",
-      "name": "喵影视"
-    },
-    {
       "url": "http://lin.ohphp.com/3/qg.json",
       "name": "于静鸣"
     },
-{
+    {
+      "url": "http://meowtv.cn/tv",
+      "name": "喵影视"
+    },
+   {
       "url": "http://饭太硬.top/tv",
       "name": "饭太硬"
     },
