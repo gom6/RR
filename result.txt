@@ -493,6 +493,16 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 浙江民生,http://120.55.49.231:3095/rtp/233.50.201.136:5140
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 🏠广东频道,#genre#
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
 广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
