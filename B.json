@@ -17,21 +17,18 @@
       "name": "盒子迷"
     }, 
    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Yoursmile66/TVBox/main/XC.json",
+      "url": "https://raw.gitmirror.com/Yoursmile66/TVBox/main/XC.json",
       "name": "南风"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/guot55/yg/main/box原.json",
+      "url": "https://raw.gitmirror.com/guot55/yg/main/box原.json",
       "name": "月光宝盒"
     }, 
      {
       "url": "http://tvbox.王二小放牛娃.top",
       "name": "王二小"
-    },   
-      {
-      "url": "https://100km.top/0",
-      "name": "纯一骚零"
-    }
+    } 
+      
   
 
   ]
