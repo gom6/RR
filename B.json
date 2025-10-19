@@ -16,19 +16,11 @@
       "url": "https://gitee.com/senno/tvbox/raw/master/api.json",
       "name": "Senno"
       }, 
-   {
-      "url": "https://gitee.com/yuan301/tv/raw/master/ok.json",
-      "name": "YUAN 301"
-    },
-    {
-      "url": "https://play.iptv365.org/南风/api.json",
+       {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
-    },    
-    {
-      "url": "https://play.iptv365.org/小米/api.json",
-      "name": "小米DEMO"
     }, 
-    {
+     {
       "url": "http://宝盒接口.top",
       "name": "盒子迷"
     }, 
@@ -41,5 +33,6 @@
 
   ]
 }
+
 
 
