@@ -9,8 +9,8 @@
       "name": "讴歌"
     }, 
     {
-      "url": "https://play.iptv365.org/肥猫/api.json",
-      "name": "肥猫"
+      "url": "http://ok213.top/tv",
+      "name": "JACK"
     },
     {
       "url": "https://gitee.com/senno/tvbox/raw/master/api.json",
@@ -33,6 +33,7 @@
 
   ]
 }
+
 
 
 
