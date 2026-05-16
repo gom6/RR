@@ -1,0 +1,64 @@
+{ 
+    "urls": [
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", 
+            "name": "饭太硬" 
+        },
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json", 
+            "name": "小米" 
+        },
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", 
+            "name": "肥猫" 
+        },
+        
+        {  
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", 
+            "name": "南风" 
+        },
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
+            "name": "PG" 
+        },
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", 
+            "name": "摸鱼儿" 
+        },
+        {   
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
+            "name": "王二小" 
+        },
+        { 
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json", 
+            "name": "潇洒" 
+        },
+      
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json",
+            "name": "newwex"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/vox/api.json",
+            "name": "集多"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/py/api.json",
+            "name": "py"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
+            "name": "小虎斑"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json",
+            "name": "潇洒单线路"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/影视/api.json",
+            "name": "潇洒多线-影视"
+        }
+       
+        
+    ]
+}
