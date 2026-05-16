@@ -1,0 +1,52 @@
+{
+  "urls": [
+     {
+      "url": "clan://localhost/tvbox/wangpan/wangpan.json",
+      "name": "🚀①网盘线路"
+    },
+    {
+      "url": "clan://localhost/tvbox/pg/jsm.json",
+      "name": "🚀②PG线路"
+    },		
+    {
+      "url": "clan://localhost/tvbox/zhenxin/zhenxin.json",
+      "name": "🚀③真心线路"
+    },	
+    {
+      "url": "clan://localhost/tvbox/fty/fty.json",
+      "name": "🚀④饭太硬线路"
+    }, 
+    {
+      "url": "clan://localhost/tvbox/xiaosa/xiaosa.json",
+      "name": "🚀⑤潇洒线路"
+    },
+    {
+      "url": "clan://localhost/tvbox/duanju/duanju.json",
+      "name": "🚀⑥短剧线路"
+    }, 		 
+    {
+      "url": "clan://localhost/tvbox/OK/OK.json",
+      "name": "🚀⑦OK线路"
+    },		
+    {
+      "url": "clan://localhost/tvbox/wangerxiao/wangerxiao.json",
+      "name": "🚀⑧放牛线路"
+    },
+     {
+      "url": "clan://localhost/tvbox/miaoyingshi/miaoyingshi.json",
+      "name": "🚀⑨D喵影视线路"
+    },	
+    {
+      "url": "clan://localhost/tvbox/nanfeng/nanfeng.json",
+      "name": "🚀⑩南风线路"
+    }, 	
+    {
+      "url": "clan://localhost/tvbox/moyu/moyu.json",
+      "name": "🚀⑪摸鱼线路"
+    },
+    {
+      "url": "clan://localhost/tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀⑫香雅情线路"
+    }	
+  ]
+}
