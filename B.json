@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "http://38.76.167.102:45321/tvbox/nox.png",
+      "name": "聚会源"
+      },   
+    {
       "url": "https://xn--soos-wn6lw489o.v.nxog.top/apib.php?id=7",
       "name": "小米"
       },   
