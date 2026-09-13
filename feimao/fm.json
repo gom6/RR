@@ -434,17 +434,6 @@
     },
    
     {
-      "key": "枫叶",
-      "name": "🍁枫叶[2K]",
-      "type": 3,
-      "api": "csp_FengYe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "{\"host\":\"https://www.cd-zj.com\",\"publish\":\"https://www.vip1949.com/\"}"
-    },
-    {
       "key": "剧圈99",
       "name": "📺剧圈[2K]",
       "type": 3,
