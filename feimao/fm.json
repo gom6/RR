@@ -14,15 +14,7 @@
       "indexs": 1,
       "ext": "./ext/douban.json"
     },
-    {
-      "key": "webhome",
-      "name": "🏠WebHome[导航]",
-      "type": 3,
-      "api": "csp_Nostr",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "{\"homePage\":\"http://rihou.cc:88/html/wo.html\"}"
-    },
+  
     {
       "key": "综合设置",
       "name": "⚙️综合[配置]",
@@ -63,21 +55,7 @@
         "ratio": 0.75
       }
     },
-    {
-      "key": "BinMarket",
-      "name": "🛠️环境[配置]",
-      "type": 3,
-      "api": "csp_BinMarket",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "filterable": 0,
-      "ext": "./ext/lab.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.0
-      }
-    },
+   
     {
       "key": "NewGrV2",
       "name": "⭐天际[秒播]",
