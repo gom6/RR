@@ -1,8 +1,8 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gom6/RR/refs/heads/main/feimao/fm.json",
-      "name": "肥猫捡漏"
+      "url": "url": "https://9280.kstore.vip/newwex.json",
+      "name": "选4K以外的好用"
     }, 
     {
       "url": "https://9877.kstore.space/sun.json",
@@ -17,7 +17,11 @@
       "url": "https://www.iyouhun.com/tv/fty",
       "name": "饭太硬"
     },
-    
+      {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gom6/RR/refs/heads/main/feimao/fm.json",
+      "name": "肥猫捡漏"
+    }, 
+
      {
       "url": "http://肥猫.net/",
       "name": "肥猫"
@@ -25,11 +29,8 @@
      {
       "url": "http://宝盒接口.top",
       "name": "盒子迷"
-    }, 
-     {
-      "url": "https://9280.kstore.vip/newwex.json",
-      "name": "王二小"
-    } 
+    }
+   
       
   
 
