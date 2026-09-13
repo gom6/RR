@@ -88,11 +88,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://wogg.xxooo.cf",
           "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
-          "http://woggpan.xxooo.cf",
-          "https://www.wogg.one"
+          "http://woggpan.xxooo.cf"
         ],
         "filter": "./ext/wogg.json"
       },
@@ -304,8 +301,7 @@
       },
       "ext": {
         "site": [
-          "https://www.kfzy.net",
-          "https://www.kfzys.net"
+          "https://www.kfzy.net"
         ],
         "cookie": "bbs_sid=p5mugcm9r147o1d3qpi0su1ucm; bbs_token=gDMAOehNUQetTJv9Lnet0J_2FnO0_3D"
       },
@@ -557,7 +553,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://shdy5.us"
+      "ext": "http://saohuotv.com"
     },
     {
       "key": "独播",
