@@ -8,6 +8,11 @@
       "url": "https://9877.kstore.space/sun.json",
       "name": "ONE"
     },
+ {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
+      "name": "牛虎"
+    },
+
     {
       "url": "http://www.饭太硬.net/tv",
       "name": "饭太硬"
