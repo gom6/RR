@@ -4,13 +4,14 @@
       "url": "https://9280.kstore.vip/newwex.json",
       "name": "选4K以外更好用"
     }, 
-    {
-      "url": "https://9877.kstore.space/sun.json",
-      "name": "ONE"
-    },
  {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
       "name": "牛虎"
+    },
+
+    {
+      "url": "https://9877.kstore.space/sun.json",
+      "name": "ONE"
     },
 
     {
